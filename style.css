@@ -1,0 +1,59 @@
+body {
+  background-color: #D5E1EF;
+}
+
+.card {
+  display: block;
+  margin: 10% auto;
+  border-radius: 20px;
+  background-color: white;
+  width: 287px;
+  height: 450px;
+}
+
+.qrcode img{
+  margin-left: 14px;
+  margin-top: 14px;
+  align-self: center;
+  width: 260px;
+  height: 260px;
+  border-radius: 10px;
+}
+
+.title {
+  text-align: center;
+  letter-spacing: 0.05rem;
+  margin-left: 14px;
+  max-width: 260px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #717889;
+  font-family: 'Outfit', sans-serif;
+}
+
+.span {
+  text-align: center;
+  letter-spacing: 0.04rem;
+  margin-left: 16px;
+  font-size: 12px;
+  max-width: 250px;
+  font-weight: bold;
+  font-family: 'Outfit', sans-serif;
+  color: #C8C9CC;
+}
+
+.attribution {
+  margin-top: -40px;
+  font-family: 'Outfit', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228deg, 45%, 44%);
+}
+
+body {
+  height: 100%;
+  overflow: hidden;
+}
